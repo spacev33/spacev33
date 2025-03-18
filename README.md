@@ -18,6 +18,9 @@ I'm a **AI & Economics** student at *Université Paris-Dauphine PSL*, passionate
 - **Data Analysis & Visualization**: Jupyter Notebook 
 - **Marketing & Business**: Meta Ads, Content Creation
 
+## 📍Location
+- Paris, France - Strasbourg, France
+
 ## 📌 Let's Connect!  
 💼 [LinkedIn](https://www.linkedin.com/in/evelina-spac/)  
 📂 [My Projects](https://github.com/spacev33)  
